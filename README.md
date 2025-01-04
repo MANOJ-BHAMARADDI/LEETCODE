@@ -13,5 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
