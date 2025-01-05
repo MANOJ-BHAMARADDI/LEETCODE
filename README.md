@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
