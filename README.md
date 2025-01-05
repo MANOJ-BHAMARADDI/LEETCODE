@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
