@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
