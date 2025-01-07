@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
