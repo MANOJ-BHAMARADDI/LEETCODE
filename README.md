@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0242-valid-anagram) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
