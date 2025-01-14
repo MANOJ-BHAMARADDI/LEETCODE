@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Prefix Sum
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0051-n-queens) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
