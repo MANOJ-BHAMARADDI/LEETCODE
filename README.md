@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0204-count-primes](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
