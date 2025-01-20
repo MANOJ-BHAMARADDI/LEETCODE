@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0941-sort-array-by-parity) |
+| [1031-add-to-array-form-of-integer](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [1031-add-to-array-form-of-integer](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
