@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
