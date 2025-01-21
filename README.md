@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
