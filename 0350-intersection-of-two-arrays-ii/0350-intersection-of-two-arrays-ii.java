@@ -1,5 +1,7 @@
 class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
+
+        // This soln works for to return same chars in 
         Arrays.sort(nums1);
         Arrays.sort(nums2);
 
@@ -20,7 +22,7 @@ class Solution {
         }
 
         int[] result = new int[intersection.size()];
-        
+
         for (int k = 0; k < intersection.size(); k++) {
             result[k] = intersection.get(k);
         }
