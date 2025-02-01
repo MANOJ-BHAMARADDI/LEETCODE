@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3194-find-words-containing-character](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/3194-find-words-containing-character) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
+| [3194-find-words-containing-character](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/3194-find-words-containing-character) |
 ## Binary Search
 |  |
 | ------- |
