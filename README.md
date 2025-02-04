@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2836-neither-minimum-nor-maximum) |
