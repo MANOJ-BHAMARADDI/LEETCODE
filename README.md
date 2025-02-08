@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0941-sort-array-by-parity) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1031-add-to-array-form-of-integer](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
