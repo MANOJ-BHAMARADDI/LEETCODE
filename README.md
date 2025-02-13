@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0941-sort-array-by-parity) |
 ## Greedy
