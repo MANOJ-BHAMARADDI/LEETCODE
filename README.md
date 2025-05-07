@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1031-add-to-array-form-of-integer) |
+| [1603-running-sum-of-1d-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
