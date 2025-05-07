@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1894-merge-strings-alternately](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/3194-find-words-containing-character) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/0941-sort-array-by-parity) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1894-merge-strings-alternately](https://github.com/MANOJ-BHAMARADDI/LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
